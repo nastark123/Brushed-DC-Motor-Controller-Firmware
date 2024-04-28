@@ -13,8 +13,6 @@
 #include <stdint.h>
 #include <stdlib.h>
 
-#include "led.h"
-
 int8_t motor_speed;
 int8_t prev_motor_speed;
 
